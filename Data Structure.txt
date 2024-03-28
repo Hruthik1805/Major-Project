@@ -1,0 +1,37 @@
+Heart Disease Identification Method Using Machine Learning Classification in E-Healthcare
+
+
+
+names
+sex
+chest_pain
+resting_bp
+serum_cholesterol -- mg/dl -- Total cholesterol levels less than 200
+fasting_blood_sugar-- mg/dl --- less than 100
+resting_electro_cardiographic
+max_heart_rate
+exercise_induced_angina
+depression_induced_by_exercise
+fluoroscopy
+thallium_scan
+label
+
+
+
+names
+age
+sex
+chest_pain
+resting_bp
+serum_cholesterol
+fasting_blood_sugar
+resting_electro_cardiographic
+max_heart_rate
+exercise_induced_angina
+depression_induced_by_exercise
+fluoroscopy
+thallium_scan
+
+
+
+
